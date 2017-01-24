@@ -8,6 +8,7 @@ source code for generating the case can be found in the _focuser_source_ directo
 The file *focuser_v4.stl* file can be uploaded to [Shapeways](http://www.shapeways.com) for manufacture. The material that I used is
 
 * Black Strong & Flexible.
+* "Inches" is the dimensions that has to be specified during upload
 
 ## Copyright
 
